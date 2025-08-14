@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá, eu sou a Rafaela 👋
 
-<!--
-**rafaela031224/rafaela031224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de *Análise e Desenvolvimento de Sistemas*  
+📊 Aspirante a *Profissional de Dados*  
+💻 Atualmente aprendendo *SQL, Python e Análise de Dados*  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que estou estudando
+- Python
+- SQL
+- Git & GitHub
+- Lógica de Programação
+
+---
+## 🌱 Sobre mim
+Sou apaixonada por descobrir como os dados podem contar histórias e gerar soluções para problemas reais.  
+No momento, foco em criar uma base sólida de conhecimentos para evoluir na área de tecnologia,  
+valorizando sempre **aprendizado contínuo, colaboração e inovação**.
+
+💡 Sempre buscando aprender, compartilhar conhecimento e crescer na área de tecnologia.
+
+---
+
+
+## 📂 Projetos de Aprendizado
+- [Consulta de Dados em SQL](link-do-repositorio)
+- [Análise de Dados com Python](link-do-repositorio)
+
+---📫 **Conecte-se comigo:**
+- [LinkedIn](https://www.linkedin.com/in/rafaela-oliveira-94959237a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- [Email](mailto:seuemail@gmail.com)
+
+💡 Sempre buscando aprender, compartilhar conhecimento e crescer na área de tecnologia.
