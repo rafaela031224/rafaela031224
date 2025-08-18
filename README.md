@@ -29,6 +29,5 @@ valorizando sempre **aprendizado contínuo, colaboração e inovação**.
 
 ---📫 **Conecte-se comigo:**
 - [LinkedIn](https://www.linkedin.com/in/rafaela-oliveira-94959237a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- [Email](mailto:seuemail@gmail.com)
-
+- [Email](mailto:Rafaelaoliveiraaribeiro@gmail.com)
 💡 Sempre buscando aprender, compartilhar conhecimento e crescer na área de tecnologia.
