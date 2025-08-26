@@ -18,7 +18,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonada por Python 
 - **Sistema de Fechamento de Caixa** – Projeto em Python para registrar fechamentos de caixas, detalhando POS, PDV, notas e moedas.  
   [Ver projeto no Replit](https://replit.com/@rafaelaolivei26/CashClose#.replit)  
 
-- Outros projetos podem ser visualizados nos meus repositórios públicos
 
 
 ---📫 **Conecte-se comigo:**
